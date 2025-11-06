@@ -7,19 +7,20 @@ This project demonstrates a simple **data analytics pipeline** that processes sa
 
 ## 🔄 Data Flow Diagram
 
-Raw Orders CSV
-      │
-      ▼
-ETL Script (Pandas / PySpark)
-      │
-      ▼
-Aggregated Sales Data (by Month, by Product)
-      │
-      ▼
-Exploratory Analysis Notebook (Matplotlib / Seaborn)
-      │
-      ▼
+RRaw Orders CSV  
+│  
+▼  
+ETL Script (Pandas/PySpark)  
+│  
+▼  
+Aggregated Sales Data (by Month, by Product)  
+│  
+▼  
+Exploratory Analysis Notebook (Matplotlib / Seaborn)  
+│  
+▼  
 Dashboard Notebook (Plotly)
+
 
 ---
 
