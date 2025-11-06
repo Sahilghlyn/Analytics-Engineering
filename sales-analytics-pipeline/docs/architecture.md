@@ -7,7 +7,7 @@ This project demonstrates a simple **data analytics pipeline** that processes sa
 
 ## 🔄 Data Flow Diagram
 
-RRaw Orders CSV  
+Raw Orders CSV  
 │  
 ▼  
 ETL Script (Pandas/PySpark)  
